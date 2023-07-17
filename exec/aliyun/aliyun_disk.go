@@ -18,7 +18,7 @@ package aliyun
 
 import (
 	"context"
-	ecs20140526 "github.com/alibabacloud-go/ecs-20140526/v4/client"
+// "github.com/alibabacloud-go/ecs-20140526/v4/client"
 	"github.com/alibabacloud-go/tea/tea"
 	"github.com/chaosblade-io/chaosblade-exec-cloud/exec"
 	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/category"
