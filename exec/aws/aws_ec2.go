@@ -26,10 +26,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec"
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/category"
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 	"github.com/chaosblade-io/chaosblade-spec-go/util"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec/category"
 )
 
 const Ec2Bin = "chaos_aws_ec2"

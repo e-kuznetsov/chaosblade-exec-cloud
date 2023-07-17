@@ -11,7 +11,7 @@ import (
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 	"github.com/chaosblade-io/chaosblade-spec-go/util"
 
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/model"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec/model"
 )
 
 var executors = model.GetAllOsExecutors()

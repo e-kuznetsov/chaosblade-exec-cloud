@@ -17,9 +17,9 @@
 package main
 
 import (
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/aliyun"
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/aws"
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/model"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec/aliyun"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec/aws"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec/model"
 	"log"
 	"os"
 

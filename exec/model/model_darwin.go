@@ -17,9 +17,9 @@
 package model
 
 import (
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/aliyun"
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/aws"
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec/aliyun"
+	"github.com/e-kuznetsov/chaosblade-exec-cloud/exec/aws"
 )
 
 // GetAllExpModels returns the experiment model specs in the project.
