@@ -1,4 +1,4 @@
-module github.com/chaosblade-io/chaosblade-exec-cloud
+module github.com/e-kuznetsov/chaosblade-exec-cloud
 
 go 1.20
 
